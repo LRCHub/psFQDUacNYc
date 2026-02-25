@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青夏塗りの蝶々",
+  "base_artist": "ubique",
+  "createdAt": "2026-02-25T05:51:55.070341Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青夏塗りの蝶々",
+      "artist": "ubique",
+      "has_synced": false,
+      "path": "select/pl_01_青夏塗りの蝶々_ubique.txt"
+    }
+  ]
+}
